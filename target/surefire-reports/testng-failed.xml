@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.pedia.qa.testcases.LoginTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.pedia.qa.testcases.LoginTest">
+        <methods>
+          <include name="loginTest"/>
+          <include name="teardown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.pedia.qa.testcases.LoginTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.pedia.qa.testcases.LoginTest] -->

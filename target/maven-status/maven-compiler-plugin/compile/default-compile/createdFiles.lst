@@ -1,0 +1,7 @@
+com\pedia\qa\Pages\ContactsPage.class
+com\pedia\qa\Pages\LoginPage.class
+com\pedia\qa\base\TestBase.class
+com\pedia\qa\Pages\HomePage.class
+com\pedia\qa\Pages\SignUp.class
+com\pedia\qa\util\TestUtil.class
+com\pedia\qa\Pages\DealsPage.class
